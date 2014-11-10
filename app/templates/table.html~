@@ -1,0 +1,21 @@
+<!DOTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <title> Students </title>
+    
+</head>
+<script src="static/bootstrap.css" rel="stylesheet" type="text/css">
+</script>
+<body>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+<script src="static/bootstrap.js"></script>
+<h1>Student Marklist</h1>
+<a href="http://127.0.0.1:5000/view">view details</a>
+<a href="http://127.0.0.1:5000/add">add content </a>
+
+
+</body>
+</html>
+
